@@ -14,7 +14,7 @@ namespace adventure
 {
     class Program
     {
-        //kata
+        //kataaaaa
         private static int[] RTEXT = new int[101];
         private static object[,] LLINE = new object[1001,23];
         private static Random RAN = new Random();
